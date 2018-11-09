@@ -75,5 +75,5 @@ def all_holidays_with_bbq(holiday_hash)
       supplies.include?("BBQ") ? day : nil
     end
   end
-  
+
 end
